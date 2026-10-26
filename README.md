@@ -3,6 +3,8 @@ Lightweight Virtual Instrument Plugin Player/Test Environment for MacOS
 
 PLUGIN//PLAYA brings a plugin host, virtual MIDI controller, stereo audio input mixer, audio-file player, OSC/MIDI control router, and performance-preset library together in one desktop application. Load an instrument and play it from your computer keyboard, connect external MIDI controllers, audition effects with live audio, or run a WAV backing track alongside a plugin during a performance—without needing to open a full DAW.
 
+[**Releases / Downloads**](https://github.com/TEAMBANZAI/PluginPlaya/releases) · [**Project repository**](https://github.com/TEAMBANZAI/PluginPlaya)
+
 ## At a glance
 
 - **Host VST3, Audio Unit (AU), and compatible 64-bit VST2 plugins** in one standalone macOS app.
